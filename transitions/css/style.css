@@ -11,10 +11,14 @@
     border-radius: 1.5em;
     color: #fff;
     background-color: mediumblue;
+
     transition-property: background-color;
-    transition-duration: 0.3s;
+    transition-duration: 0.3s, 2s, 0.3s;
+    transition-timing-function: ease-out, ease-in, ease-out;
 }
 
 .smooth:hover, .smooth:focus {
     background-color: red;
+    letter-spacing: 3px;
+    color: black;
 }
