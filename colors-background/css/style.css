@@ -1,7 +1,7 @@
 body {
     background-image: url(/assets/svg/hat-svgrepo-com.svg);
     background-repeat: no-repeat;
-    background-position: left bottom;
+    background-position: 50% -50%;
 }
 
 blockquote {
