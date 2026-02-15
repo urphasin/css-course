@@ -1,3 +1,10 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+
+
 body {
     background-image: url(/assets/svg/high-speed-rail-svgrepo-com.svg);
     background-repeat: no-repeat;
