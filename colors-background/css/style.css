@@ -1,11 +1,22 @@
 body {
-    background-image: url(/assets/svg/hat-svgrepo-com.svg);
+    /* background-image: url(/assets/svg/high-speed-rail-svgrepo-com.svg); */
     background-repeat: no-repeat;
-    background-position: 50% -50%;
+    background-position: center;
+    background-size: cover;
 }
 
 blockquote {
     background-image: url(/assets/svg/grape-svgrepo-com.svg);
     padding: 2em;
     border: 0.25em dashed;
+}
+
+.container {
+    height: 1px;
+    padding-top: 75%;
+}
+
+svg {
+    position: absolute;
+    top: 0; left: 0;
 }
