@@ -1,0 +1,11 @@
+body {
+    background-image: url(/assets/svg/hat-svgrepo-com.svg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+blockquote {
+    background-image: url(/assets/svg/grape-svgrepo-com.svg);
+    padding: 2em;
+    border: 0.25em dashed;
+}
