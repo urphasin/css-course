@@ -12,7 +12,7 @@
     color: #fff;
     background-color: mediumblue;
 
-    transition-property: background-color;
+    transition-property: background-color, color, letter-spacing;
     transition-duration: 0.3s, 2s, 0.3s;
     transition-timing-function: ease-out, ease-in, ease-out;
 }
