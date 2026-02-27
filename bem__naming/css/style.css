@@ -1,0 +1,10 @@
+body {
+    margin: -7px 20px -40px 7px;
+}
+
+.container {
+    padding: 2rem;
+    width: 100%;
+    max-width: 75rem;
+    margin: 0 auto;
+}
